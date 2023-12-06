@@ -1,5 +1,5 @@
 import {
-  // addTodoHandler,
+  addTodoHandler,
   beforeUnloadHandler,
   loadHandler
 } from './eventHandler/eventController.js'
